@@ -21,3 +21,11 @@
 Выглядит вкладка, как на рисунке 6.
 
 ![6](https://github.com/Ma4eta4/laba3/blob/main/6.png)
+
+Меняем версию и переопределяем функцию onUpgrade, как на риссунках 7,8,9
+
+![7](https://github.com/Ma4eta4/laba3/blob/main/90311d5f-60df-4431-813e-025191afe65b.png)
+
+![8](https://github.com/Ma4eta4/laba3/blob/main/d5bed72c-ccf7-48b9-b902-77dfdce402a1.png)
+
+![9](https://github.com/Ma4eta4/laba3/blob/main/1532db74-2d47-48e7-9b11-899505024e04.png)
